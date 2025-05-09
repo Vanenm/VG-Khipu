@@ -2,7 +2,8 @@ const juegos = [
   { id: 1, nombre: 'Sonic', precio: 25000 },
   { id: 2, nombre: 'Mario', precio: 12000 },
   { id: 3, nombre: 'Pokémon', precio: 38000 },
-  { id: 4, nombre: 'Zelda', precio: 26000 }
+  { id: 4, nombre: 'Zelda', precio: 26000 },
+  {id: 5, nombre: 'Lolcito', precio: 30000 }
 ];
 
 const carrito = [];
